@@ -1,4 +1,8 @@
+<<<<<<< HEAD:config/environments/production.rb
 FirstApp::Application.configure do
+=======
+Hello::Application.configure do
+>>>>>>> 25c319376b6aacb9d96ca4b51d3ac17211cf8381:config/environments/production.rb
   # Settings specified here will take precedence over those in config/application.rb
 
   # The production environment is meant for finished, "live" apps.

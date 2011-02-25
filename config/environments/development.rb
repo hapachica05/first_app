@@ -1,4 +1,8 @@
+<<<<<<< HEAD:config/environments/development.rb
 FirstApp::Application.configure do
+=======
+Hello::Application.configure do
+>>>>>>> 25c319376b6aacb9d96ca4b51d3ac17211cf8381:config/environments/development.rb
   # Settings specified here will take precedence over those in config/application.rb
 
   # In the development environment your application's code is reloaded on

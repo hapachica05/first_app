@@ -1,4 +1,10 @@
+<<<<<<< HEAD:config/routes.rb
 FirstApp::Application.routes.draw do
+=======
+Hello::Application.routes.draw do
+  resources :posts
+
+>>>>>>> 25c319376b6aacb9d96ca4b51d3ac17211cf8381:config/routes.rb
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

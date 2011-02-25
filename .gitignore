@@ -1,4 +1,5 @@
 .bundle
+<<<<<<< HEAD:.gitignore
 db/*.sqlite3*
 log/*.log
 *.log
@@ -9,3 +10,8 @@ doc/app
 *.swp
 *~
 .DS_Store
+=======
+db/*.sqlite3
+log/*.log
+tmp/
+>>>>>>> 25c319376b6aacb9d96ca4b51d3ac17211cf8381:.gitignore
